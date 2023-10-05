@@ -5,13 +5,20 @@ This is a response to John Crickett's URL Shortener Coding Challenge.
 
 See the challenge specification [here](https://codingchallenges.fyi/challenges/challenge-url-shortener).
 
-To get started:
-- pip install fastapi  
-- pip install "uvicorn[standard]"  
-- pip install mysql-connector-python
-- pip install customtkinter
-- pip install validators  
-- Enter terminal command api:shortchanged --reload  
+### Installation
+**Run Python:**
+   - Navigate to the directory containing the code.
+   - Run the code using Python: 
+     - For Python 2: `python filename.py`.
+     - For Python 3: `python3 filename.py`.
+- Install fastapi: `pip install fastapi`  
+- Install uvicorn: `pip install "uvicorn[standard]"`  
+- Install mysql-connector: `pip install mysql-connector-python`
+- Install customtkinter: `pip install customtkinter`
+- Install validators: `pip install validators`
+
+### Installation
+- Enter terminal command: `api:shortchanged --reload`  
 If successful you should see this message at localhost:8000  
 
 ![local host message](images/localhostmessage.png)
