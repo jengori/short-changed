@@ -17,7 +17,7 @@ See the challenge specification [here](https://codingchallenges.fyi/challenges/c
 If successful you should see this message at localhost:8000  
 
 ![local host message](images/localhostmessage.png)
-- In database.py file, replace value of password (lines 18) with your own MySQL password
+- In database.py file, replace value of password (lines 10 and 18) with your own MySQL password
 - Run the main.py file  
 
 ![gui screenshot](images/gui_screenshot.png)
